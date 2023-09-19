@@ -1,1 +1,1 @@
-hihii
+city=manglore
